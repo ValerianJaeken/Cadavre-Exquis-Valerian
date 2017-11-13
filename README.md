@@ -73,3 +73,8 @@ go higher on ther Git tree
 jump and fetch other branches, 
 pull yourself up again 
 
+
+Maurice is a cool shrimp.
+He sometimes eats tacos with his friends.
+Yesterday he purchased a car.
+
