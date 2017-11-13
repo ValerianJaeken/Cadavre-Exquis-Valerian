@@ -2,7 +2,7 @@
 Git torture
 
 # **My ideal burger is made of...**
- 
+
 * Kobe beef meat
 
 * Cheddar cheese
@@ -15,9 +15,9 @@ Git torture
 
 # ** Accompanied by some special animal style fries which consist of : **
 
-* Fries (obviously) 
+* Fries (obviously)
 
-* Cheddar cheese 
+* Cheddar cheese
 
 * Chilli ,yes , chilli
 
@@ -33,7 +33,7 @@ Git torture
 # En vaak denk ik aan vroeger, ik weet waar het begon
 # Nu denk ik aan miljoenen, nee vraag me niet waarom
 
-**Hello world!** 
+**Hello world!**
 
 ### Tired of writing stuff
 
@@ -41,6 +41,10 @@ Git torture
 
 =====================================================================
 
+<<<<<<< HEAD
 
 Lorsque l'on se cogne la tête contre un pot et que cela sonne creux, ça n'est pas forcément le pot qui est vide.
 
+=======
+PUSH IT TO THE LIMIT
+>>>>>>> 50957c80ab9970cfb39104c16c9e21916d230307
