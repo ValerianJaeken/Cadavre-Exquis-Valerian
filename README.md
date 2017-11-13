@@ -53,3 +53,8 @@ PUSH IT TO THE LIMIT
 ## There is an element of fun
 ## You find the fun and snap!
 ## **The job's a game**
+
+
+## Some jokes :joy::joy: :
+I'm reading a book about anti-gravity. It's impossible to put down.
+
