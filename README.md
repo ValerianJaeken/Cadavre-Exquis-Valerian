@@ -40,3 +40,7 @@ Git torture
 ... idk
 
 =====================================================================
+
+
+Lorsque l'on se cogne la tête contre un pot et que cela sonne creux, ça n'est pas forcément le pot qui est vide.
+
