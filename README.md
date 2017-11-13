@@ -27,6 +27,8 @@ Git torture
 
 * Don't forget to fry two times
 
+**add some pepeeeeee**
+
 * Remove Kebab
 
 # Ik ging slapen met een doezoe, werd wakker met een ton
@@ -39,15 +41,12 @@ Git torture
 
 ... idk
 
-=====================================================================
 
-<<<<<<< HEAD
 
 Lorsque l'on se cogne la tête contre un pot et que cela sonne creux, ça n'est pas forcément le pot qui est vide.
 
-=======
 PUSH IT TO THE LIMIT
->>>>>>> 50957c80ab9970cfb39104c16c9e21916d230307
+ 50957c80ab9970cfb39104c16c9e21916d230307
 
 ## In every job that must be done
 ## There is an element of fun
@@ -77,4 +76,5 @@ pull yourself up again
 Maurice is a cool shrimp.
 He sometimes eats tacos with his friends.
 Yesterday he purchased a car.
+developpement
 
