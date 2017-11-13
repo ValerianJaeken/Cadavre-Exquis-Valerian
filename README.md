@@ -6,3 +6,9 @@ Git torture
 * Kobe beef meat
 
 * Cheddar cheese
+
+* Salad
+
+* Tomatoes
+
+* Pickles
