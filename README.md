@@ -58,3 +58,9 @@ PUSH IT TO THE LIMIT
 ## Some jokes :joy::joy: :
 I'm reading a book about anti-gravity. It's impossible to put down.
 
+We love [GitHub](https://github.com) so much :heart:
+
+It will be so *fun* when everybody will use it and we should manage `100` conflicts.
+
+Master and branches power
+
