@@ -78,3 +78,5 @@ He sometimes eats tacos with his friends.
 Yesterday he purchased a car.
 developpement
 
+“Sometimes the truth isn’t good enough. Sometimes people deserve more.
+Sometimes people deserve to have their faith rewarded.” – Batman
